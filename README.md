@@ -1,4 +1,4 @@
-# Demo_Java8
+# Java8
 
 函數式接口 "Function Interface" 又稱之為 功能性接口。
 函數式接口只包含一個方法的接口，例如 java.lang.Runnable、java.lang.Compartor。
